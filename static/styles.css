@@ -1,0 +1,25 @@
+.center
+{
+    text-align: center;
+}
+
+body
+{
+    background-color: olive;
+}
+
+.githubbutton
+{
+    color: white;
+}
+
+.blacklink
+{
+    color: black;
+    text-decoration: underline;
+}
+
+.mainheader
+{
+    color: black;
+}
